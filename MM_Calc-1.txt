@@ -1,0 +1,18 @@
+Sums:
+Units Sold:   249810100.000
+Unit Cost:     9360937.880
+Total Revenue: 66144082560.700
+Total Cost: 46628540723.750
+Total Profit: 19515541836.950
+Averages:
+Units Sold:    4999.101
+Unit Cost:     187.327
+Total Revenue: 1323649.368
+Total Cost:  933112.019
+Total Profit:  390537.348
+Maximums:
+Units Sold:   10000.000
+Unit Cost:     524.960
+Total Revenue: 6682031.730
+Total Cost: 5249075.040
+Total Profit: 1738178.390
